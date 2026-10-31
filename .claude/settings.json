@@ -8,13 +8,20 @@
     "pm-go-to-market@pm-skills": true,
     "pm-marketing-growth@pm-skills": true,
     "pm-toolkit@pm-skills": true,
-    "pm-ai-shipping@pm-skills": true
+    "pm-ai-shipping@pm-skills": true,
+    "hyperframes@hyperframes": true
   },
   "extraKnownMarketplaces": {
     "pm-skills": {
       "source": {
         "source": "github",
         "repo": "phuryn/pm-skills"
+      }
+    },
+    "hyperframes": {
+      "source": {
+        "source": "github",
+        "repo": "heygen-com/hyperframes"
       }
     }
   }
